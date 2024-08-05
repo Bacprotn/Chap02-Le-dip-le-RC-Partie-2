@@ -1,6 +1,6 @@
 <img src="images/logo.jpg" alt="Thumbnail" style="width: 100%; height: auto;">
 
-# Chap 02 Le dipole RC - Partie 1
+# Chap 02 Le dipole RC - Partie 2 
 
 - Cours Chap 02: Le dipole RC - Partie 2.
 - [Découvrez notre cours complet sur YouTube](https://youtu.be/V381RSkJu0w)
